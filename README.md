@@ -1,2 +1,1 @@
-# mm
-Code for school activities
+This repo contains code for school activities.
