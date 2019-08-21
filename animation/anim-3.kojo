@@ -44,7 +44,7 @@ class Ball {
     )
     pic.setPosition(cb.x + 50, cb.y + 50)
     var vel: Vector2D = null
-    val gravity = Vector2D(0, -0.1)
+    val gravity = Vector2D(0, -0.2)
 
     val launcher = new Launcher()
 
